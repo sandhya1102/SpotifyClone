@@ -10,7 +10,7 @@ function Navbar() {
       <img
         onClick={() => navigate("/")}
         className="p-2 w-12 lg:w-16 cursor-pointer"
-        src="/Spotify_icon.svg"
+        src="Spotify_icon.svg"
         alt="spotify-icon"
       />
       {/* Navigation and Search Bar */}
